@@ -32,14 +32,7 @@ function onPageLoaded(args){
     }, function(err){
         console.log("failed to opened DB", err);
     });
-   /* (new Sqlite("doc.db")).then(db => {
-        db.execSQL("CREATE TABLE IF NOT EXISTS patients (id INTEGER PRIMARY KEY AUTOINCREMENT, firstname TEXT, lastname TEXT)").then(id => {
-            console.log("DB opened");
-            page.bindingContext = createViewModel(db);
-        });
-    }, error => {
-        console.log("OPEN DB ERROR", error);
-    });*/
+
 }
 
 function insert(){

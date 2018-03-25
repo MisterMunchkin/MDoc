@@ -32,22 +32,15 @@ function onPageLoaded(args){
     }, function(err){
         console.log("failed to opened DB", err);
     });
-   /* (new Sqlite("doc.db")).then(db => {
-        db.execSQL("CREATE TABLE IF NOT EXISTS patients (id INTEGER PRIMARY KEY AUTOINCREMENT, firstname TEXT, lastname TEXT)").then(id => {
-            console.log("DB opened");
-            page.bindingContext = createViewModel(db);
-        });
-    }, error => {
-        console.log("OPEN DB ERROR", error);
-    });*/
+
 }
 
 function insert(){
     console.log("insert first");
     
     var patientObject = {
-        firstname: page.getViewById("firstname"),
-        lastname: page.getViewById("lastname")
+        firstname: page.getViewById("firstname").text,
+        lastname: page.getViewById("lastname").text
     };
 
     db_instance.execSQL("INSERT INTO patients (firstname, lastname) VALUES (?, ?)", [patientObject.firstname, patientObject.lastname]).then(id => {
