@@ -1,0 +1,19 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+    xmlns:FAB="nativescript-floatingactionbutton"
+    navigatingTo="onNavigatingTo">
+    
+    <GridLayout rows="auto, 70">    
+        <StackLayout>
+
+            <StackLayout orientation="horizontal">
+            
+                <Button text="Select" tap="{{ select }}" />
+            </StackLayout>
+        </StackLayout>
+
+        <FAB:fab tap="{{ routeToInsert }}"
+                    row="1"
+                    rippleColor="#f1f1f1"
+                    class="fab-button"/>
+    </GridLayout>
+</Page>

@@ -1,0 +1,16 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+    xlmns:FAB="nativescript-floatingactionbutton"
+    navigatingTo="onNavigatingTo">
+    <StackLayout>
+
+        <StackLayout orientation="horizontal">
+     
+            <Button text="Select" tap="{{ select }}" />
+        </StackLayout>
+    </StackLayout>
+
+    <FAB:fab tap="fabTap"
+                row="1"
+                rippleColor="#f1f1f1"
+                class="fab-button"/>
+</Page>

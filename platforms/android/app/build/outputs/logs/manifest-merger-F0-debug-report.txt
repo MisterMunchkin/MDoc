@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:3:2-33
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\dalmi\.android\build-cache\de7072d0f474bd31287b314f5db47125461644e7\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\dalmi\.android\build-cache\d4af35486d72902a3ce6a414761441b93576764c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dalmi\.android\build-cache\b1e712cf574d66e47d63e73880b985cdb93aec89\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dalmi\.android\build-cache\6b8fabde772821e315403e786863b161697a876a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dalmi\.android\build-cache\5087ac4abf8cc0046a8d829dbe06d80e291b4e55\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dalmi\.android\build-cache\e87b0aa0a632dd45b18bfa6a0da28c1435725780\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dalmi\.android\build-cache\3a28113431598656a33d42eeb6404af20f09ac8e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dalmi\.android\build-cache\fbd9aeb3719fb90728a8abbfe46da7f53374d189\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dalmi\.android\build-cache\eef1f5ded84871e475ae1e3e8e26bbbebfdae23a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dalmi\.android\build-cache\1bd649a27284313bd67a0869a060ca2638ccd52f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dalmi\.android\build-cache\7419b1c13425a36bc054311592d9ea1e4bd47383\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dalmi\.android\build-cache\26917f7155e7359c1bcaf3035052aa9d96a933d1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [:nativescript-optimized:] C:\Users\dalmi\.android\build-cache\523a376302c96a49eb78454bdb80d1e418c11e4b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\dalmi\.android\build-cache\7fa6dcf1fcdfbc6da4992bcc104138970704b461\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\dalmi\.android\build-cache\de7072d0f474bd31287b314f5db47125461644e7\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:25.3.1] C:\Users\dalmi\.android\build-cache\de7072d0f474bd31287b314f5db47125461644e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dalmi\.android\build-cache\b1e712cf574d66e47d63e73880b985cdb93aec89\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dalmi\.android\build-cache\6b8fabde772821e315403e786863b161697a876a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dalmi\.android\build-cache\5087ac4abf8cc0046a8d829dbe06d80e291b4e55\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dalmi\.android\build-cache\e87b0aa0a632dd45b18bfa6a0da28c1435725780\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dalmi\.android\build-cache\3a28113431598656a33d42eeb6404af20f09ac8e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dalmi\.android\build-cache\fbd9aeb3719fb90728a8abbfe46da7f53374d189\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dalmi\.android\build-cache\eef1f5ded84871e475ae1e3e8e26bbbebfdae23a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dalmi\.android\build-cache\1bd649a27284313bd67a0869a060ca2638ccd52f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dalmi\.android\build-cache\7419b1c13425a36bc054311592d9ea1e4bd47383\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dalmi\.android\build-cache\26917f7155e7359c1bcaf3035052aa9d96a933d1\output\AndroidManifest.xml:29:5-20
+MERGED from [:widgets-release:] C:\Users\dalmi\.android\build-cache\7fa6dcf1fcdfbc6da4992bcc104138970704b461\output\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from D:\Android\Nativescript_Apps\MDoc\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\dalmi\.android\build-cache\de7072d0f474bd31287b314f5db47125461644e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\dalmi\.android\build-cache\d4af35486d72902a3ce6a414761441b93576764c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dalmi\.android\build-cache\b1e712cf574d66e47d63e73880b985cdb93aec89\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dalmi\.android\build-cache\6b8fabde772821e315403e786863b161697a876a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dalmi\.android\build-cache\5087ac4abf8cc0046a8d829dbe06d80e291b4e55\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dalmi\.android\build-cache\e87b0aa0a632dd45b18bfa6a0da28c1435725780\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dalmi\.android\build-cache\3a28113431598656a33d42eeb6404af20f09ac8e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dalmi\.android\build-cache\fbd9aeb3719fb90728a8abbfe46da7f53374d189\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dalmi\.android\build-cache\eef1f5ded84871e475ae1e3e8e26bbbebfdae23a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dalmi\.android\build-cache\1bd649a27284313bd67a0869a060ca2638ccd52f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dalmi\.android\build-cache\7419b1c13425a36bc054311592d9ea1e4bd47383\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dalmi\.android\build-cache\26917f7155e7359c1bcaf3035052aa9d96a933d1\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\dalmi\.android\build-cache\de7072d0f474bd31287b314f5db47125461644e7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\dalmi\.android\build-cache\de7072d0f474bd31287b314f5db47125461644e7\output\AndroidManifest.xml:26:9-47

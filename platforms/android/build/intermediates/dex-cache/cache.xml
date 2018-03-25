@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dalmi\.android\build-cache\523a376302c96a49eb78454bdb80d1e418c11e4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\Android\Nativescript_Apps\MDoc\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_e47ceab7026a78c76f8f3c7f7582442069ecaf88.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\Nativescript_Apps\\MDoc\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "D:\\Android\\Nativescript_Apps\\MDoc\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Nativescript_Apps\\MDoc\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\background.png",
+        "source": "D:\\Android\\Nativescript_Apps\\MDoc\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Android\\Nativescript_Apps\\MDoc\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\Android\\Nativescript_Apps\\MDoc\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]
